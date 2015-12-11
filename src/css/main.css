@@ -85,7 +85,7 @@ textarea {
 }
 
 /* ==========================================================================
-   Author's custom styles
+   Author’s custom styles
    ========================================================================== */
 
 
@@ -180,7 +180,7 @@ textarea {
 
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
+   These examples override the primary (‘mobile first’) styles.
    Modify as content requires.
    ========================================================================== */
 
@@ -227,7 +227,7 @@ textarea {
     }
 
     /*
-     * Don't show links that are fragment identifiers,
+     * Don’t show links that are fragment identifiers,
      * or use the `javascript:` pseudo protocol
      */
 
